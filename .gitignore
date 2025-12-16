@@ -1,0 +1,24 @@
+# Node
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+*.log
+server_error.log
+
+# Project specific
+uploads/
+debug_cv.py
+test_api.py
+test_backends.py
+.gemini/
+config.bat
